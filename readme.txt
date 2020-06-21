@@ -9,3 +9,12 @@ og --loglevel DEBUG
 --logfile : logging in to a file
 --loglevel : level at which logs need to be recorded
 --only-summary : prints only tasks stmts
+
+
+git:
+-----
+
+git init
+git pull https://github.com/gvsharshavardhan/locust_learning.git --allow-unrelated-histories
+git push --set-upstream https://github.com/gvsharshavardhan/locust_learning.git master
+
