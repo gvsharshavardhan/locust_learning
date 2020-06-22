@@ -18,3 +18,11 @@ git init
 git pull https://github.com/gvsharshavardhan/locust_learning.git --allow-unrelated-histories
 git push --set-upstream https://github.com/gvsharshavardhan/locust_learning.git master
 
+
+
+self.interrupt
+
+SequentialTaskSet
+
+
+
